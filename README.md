@@ -27,8 +27,8 @@ Palavra secreta: p * * * * *
 Chute uma letra: t
 Palavra secreta: p * * * * *   (letra não encontrada)
 
-Chute uma letra: i
-Palavra secreta: p i * * * *
+Chute uma letra: y
+Palavra secreta: p y * * * *
 
 ... e assim até completar: p y t h o n  🎉
 ```
@@ -85,24 +85,10 @@ Nenhuma biblioteca externa é necessária — só Python puro! ✅
 
 ---
 
-## 📁 Estrutura do Projeto
-
-```
-palavra-secreta/
-│
-└── palavra_secreta.py   # Arquivo principal do jogo
-```
-
----
-
 ## 👤 Autor
 
-Feito com 💙 por **[Seu Nome]**
+Feito por **Maria Eduarda de Oliveira Gualberto**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- GitHub: [@mdudagualberto](https://github.com/mdudagualberto)
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
